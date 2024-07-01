@@ -1,0 +1,15 @@
+Caesar Cipher
+
+Introduction
+
+This project is a Caesar Cipher implemented in Python. The Caesar Cipher is one of the simplest and most well-known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down or up the alphabet. Despite its simplicity, the Caesar Cipher is a useful educational tool for understanding the basics of encryption and cryptography.
+
+Features
+
+Encrypt Text: Shifts each letter in the plaintext by a specified number of positions to generate ciphertext.
+Decrypt Text: Reverses the shift to convert ciphertext back to the original plaintext.
+ Customizable Shift: Allows the user to specify the shift amount for encryption and decryption.
+Supports Upper and Lower Case Letters: Handles both uppercase and lowercase letters, converting into lower case in the output.
+
+
+
